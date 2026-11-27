@@ -301,7 +301,7 @@ select {
 }
 
 .hero-image {
-  background-image: linear-gradient(90deg, rgb(11 11 14 / 97%) 0%, rgb(11 11 14 / 82%) 39%, rgb(11 11 14 / 20%) 100%), linear-gradient(0deg, var(--color-asphalt) 0%, transparent 28%), url("img/img..jpeg");
+  background-image: linear-gradient(90deg, rgb(11 11 14 / 97%) 0%, rgb(11 11 14 / 82%) 39%, rgb(11 11 14 / 20%) 100%), linear-gradient(0deg, var(--color-asphalt) 0%, transparent 28%), url('hero.jpeg.jpeg');
   background-position: center, center, 58% center;
   background-size: cover;
   animation: hero-arrive 1s ease-out both;
@@ -596,7 +596,7 @@ select {
 }
 
 .events-image {
-  background-image: linear-gradient(90deg, rgb(11 11 14 / 97%), rgb(11 11 14 / 75%) 60%, rgb(11 11 14 / 80%)), linear-gradient(0deg, var(--color-asphalt), transparent 35%), url("img/f2.img.jpeg");
+  background-image: linear-gradient(90deg, rgb(11 11 14 / 97%), rgb(11 11 14 / 75%) 60%, rgb(11 11 14 / 80%)), linear-gradient(0deg, var(--color-asphalt), transparent 35%), url('noche.jpeg.jpeg');
   background-position: center;
   background-size: cover;
   opacity: 0.6;
